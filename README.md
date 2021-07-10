@@ -4,8 +4,8 @@ A library for accessing a Minecraft server using the Query protocol
 If you need to run under node < 8.0.0 then you have to use a version < 1.0.0 of this library
 
 ## Status
-[![Build Status](https://travis-ci.org/kmpm/node-mcquery.svg?branch=master)](https://travis-ci.org/kmpm/node-mcquery)
-[![Coverage Status](https://coveralls.io/repos/kmpm/node-mcquery/badge.png)](https://coveralls.io/r/kmpm/node-mcquery)
+[![CI Testing](https://github.com/kmpm/node-mcquery/actions/workflows/main.yml/badge.svg)](https://github.com/kmpm/node-mcquery/actions/workflows/main.yml)
+
 
 ## References ##
 * http://wiki.vg/Query
